@@ -6,7 +6,7 @@ export const projects = [
       "/images/html.webp",
     tech: ["HTML5",],
     github: "https://github.com/ManuelCaroDev/html5_arquitectura_informacion",
-    link: "#",
+    link: "https://html5-arquitectura-informacion-mctdev.vercel.app/",
   },
   {
     title: "Project 2: StarWars CSS Flex",
