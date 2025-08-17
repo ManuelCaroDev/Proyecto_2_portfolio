@@ -38,20 +38,12 @@ body {
 .light {
   background-color: var(--bg-light);
   color: var(--primary-light);
-}
-
-.btnLight {
-  footer {
-    button {
-      img {
-        filter: none;
-      }
-      background-color: var(--bg-light);
-    }
+  .my-btn {
+    background-color: var(--bg-light);
   }
-}
-
-.lightLink {
+  .my-btn > img {
+    filter: none;
+  }
   .project-card > .header > div > a > img {
     filter: none;
   }
