@@ -39,7 +39,16 @@ body {
   background-color: var(--bg-light);
   color: var(--primary-light);
 }
-
+.btnLight {
+  footer {
+    button {
+      img {
+        filter: none;
+      }
+      background-color: var(--bg-light);
+    }
+  }
+}
 main {
   min-height: 80vh;
 }

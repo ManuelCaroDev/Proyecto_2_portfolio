@@ -4,6 +4,7 @@ export const changeTheme = () => {
   const themeBtn = document.querySelector("#themeBtn");
   themeBtn.addEventListener("click", () => {
     document.body.classList.toggle("light");
+    document.body.classList.toggle("btnLight");
     changeText();
   });
 };

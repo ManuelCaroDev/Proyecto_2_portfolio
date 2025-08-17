@@ -1,5 +1,5 @@
 .projects {
-  padding: 0 8rem;
+  padding: 10px 8rem;
   min-height: 80vh;
   padding-bottom: 4rem;
   display: flex;
@@ -10,7 +10,7 @@
 
 @media (max-width: 770px) {
   .projects {
-    padding: 0 2rem;
+    padding: 10px 2rem;
   }
 }
 
