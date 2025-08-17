@@ -5,6 +5,7 @@ export const changeTheme = () => {
   themeBtn.addEventListener("click", () => {
     document.body.classList.toggle("light");
     document.body.classList.toggle("btnLight");
+    document.body.classList.toggle("lightLink");
     changeText();
   });
 };

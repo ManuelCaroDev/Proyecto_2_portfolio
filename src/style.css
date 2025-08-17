@@ -39,6 +39,7 @@ body {
   background-color: var(--bg-light);
   color: var(--primary-light);
 }
+
 .btnLight {
   footer {
     button {
@@ -49,6 +50,13 @@ body {
     }
   }
 }
+
+.lightLink {
+  .project-card > .header > div > a > img {
+    filter: none;
+  }
+}
+
 main {
   min-height: 80vh;
 }
