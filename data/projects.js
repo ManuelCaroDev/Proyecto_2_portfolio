@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: "Html: arquitectura de la informacion",
+    title: "Project 1: Html information architecture",
     description: "First's steps with html5",
     image:
       "/images/html.webp",
@@ -9,8 +9,8 @@ export const projects = [
     link: "#",
   },
   {
-    title: "StarWars CSS Flex",
-    description: "Star Wars website replica using CSS Flex",
+    title: "Project 2: StarWars CSS Flex",
+    description: "Star Wars website replica using  HTML & CSS Flex",
     image:
       "/images/css.webp",
     tech: ["HTML5", "CSS3"],
@@ -18,8 +18,8 @@ export const projects = [
     link: "https://entrega-flexbox.vercel.app/",
   },
   {
-    title: "Landing CSS Grid",
-    description: "Landing website using CSS Grid",
+    title: "Project 3: Landing CSS Grid",
+    description: "Landing website using HTML & CSS Grid",
     image:
       "/images/grid.webp",
     tech: ["HTML5", "CSS3"],
@@ -27,7 +27,7 @@ export const projects = [
     link: "https://entrega-grid-mcdev.vercel.app/",
   },
   {
-    title: "Project 1",
+    title: "Project 4: Online store",
     description: "Replica of an online store using the knowledge acquired in HTML5 and CSS3",
     image:
       "/images/proyecto1.webp",
@@ -36,7 +36,7 @@ export const projects = [
     link: "https://proyecto-1-mcdev.vercel.app/",
   },
   {
-    title: "BMW M Gallery",
+    title: "Project 5: BMW M Gallery",
     description: "Dinamic gallery with filters using DOM with javascript",
     image:
       "/images/dom.webp",
@@ -45,11 +45,11 @@ export const projects = [
     link: "https://bmwmgallery.vercel.app/",
   },
   {
-    title: "Portfolio",
-    description: "Personal portfolio",
+    title: "Project 6: Portfolio",
+    description: "Personal portfolio created with Vite using JavaScript Vanilla",
     image:
       "/images/portfolio.webp",
-    tech: ["HTML5", "CSS3", "JavaScript", "DOM"],
+    tech: ["HTML5", "CSS3", "JavaScript", "DOM", "VITE"],
     github: "https://github.com/ManuelCaroDev/Proyecto_2_portfolio",
     link: "https://mctdev-portfolio.vercel.app/",
   },
