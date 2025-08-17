@@ -1,5 +1,5 @@
 .projects {
-  padding: 10px 8rem;
+  padding: 30px 8rem;
   min-height: 80vh;
   padding-bottom: 4rem;
   display: flex;
@@ -31,3 +31,4 @@
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   }
 }
+
