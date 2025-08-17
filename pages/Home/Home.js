@@ -8,13 +8,7 @@ export const Home = () => {
     <section class="home">
     <p>Hey, I'm</p>
     <h1>Manuel Caro</h1>
-    <p>I'm a software engineer based in Almeria, 
-    Spain and also a communication and journalism student. 
-    I enjoy creating things that live on the internet, 
-    whether that be websites, applications, or anything in between. 
-    I have been freelancing for a year now while studying at the university and 
-    I've manage to gain a decent amount of experience and valuable knowledge 
-    from all different kinds of fields throughout my projects/work.</p>
+    <p>I'm a software development student living in Almería, Spain. I currently combine my current job (hydroelectric power plant specialist) with my software development studies (DAM & Full Stack Development). I enjoy creating content for the internet, whether it's websites, apps, or anything else. I've been studying for a year and am gaining significant experience and valuable knowledge in various fields through my projects and work.</p>
     <a href="mailto:manuelcaro.dev@gmail.com">Say hi →</a>
     </section>`;
 };
