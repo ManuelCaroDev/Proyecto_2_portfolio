@@ -12,9 +12,9 @@
 .project-card:hover {
   transform: scale(1.1);
   box-shadow:
-    0 0 20px 5px rgb(153, 69, 232),   
-    0 0 40px 10px rgb(51, 211, 255),  
-    0 0 60px 15px rgb(221, 87, 136);
+    0 0 10px 2.5px rgb(153, 69, 232),   
+    0 0 20px 5px rgb(51, 211, 255),  
+    0 0 30px 7.5px rgb(221, 87, 136);
   }
 
 .project-card:hover::before {
