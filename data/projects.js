@@ -53,4 +53,13 @@ export const projects = [
     github: "https://github.com/ManuelCaroDev/Proyecto_2_portfolio",
     link: "https://mctdev-portfolio.vercel.app/",
   },
+  {
+    title: "Project 7: SnapFinder",
+    description: "SnapShots finder with dinamic gallery",
+    image:
+      "/images/api.webp",
+    tech: ["HTML5", "CSS3", "JavaScript", "DOM", "VITE"],
+    github: "https://github.com/ManuelCaroDev/proyecto_3_asincrono",
+    link: "https://snapfinder.vercel.app/",
+  },
 ];
